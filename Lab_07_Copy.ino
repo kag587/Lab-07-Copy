@@ -1,5 +1,5 @@
 
-// this sets all of the led pins
+// changed comment
 int led1 = 2;
 int led2 = 4;
 int led3 = 6;
